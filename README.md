@@ -2,14 +2,3 @@ freeCodeCamp.org offers several developer certifications. Each of these certific
 
 Each of these 30 projects in the freeCodeCamp.org curriculum has its own agile user stories and automated tests. These help users build up project incrementally and ensure fulfillment of all the user stories before submission.
 
-JavaScript Algorithms and Data Structures Certification ✔️
- Basic JavaScript
- ES6
- Regular Expressions
- Debugging
- Basic Data Structures
- Algorithm Scripting
- Object Oriented Programming
- Functional Programming
- Intermediate Algorithm Scripting
- JavaScript Algorithms and Data Structures Projects
